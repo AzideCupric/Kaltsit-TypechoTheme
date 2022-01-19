@@ -1,4 +1,16 @@
+<?php
+/**
+ * Kal'tsit主题皮肤
+ * 
+ * @package Typecho Kal'tsit Theme 
+ * @author Azide
+ * @version 1.0
+ * @link https://azide.top
+ */
 
+if (!defined('__TYPECHO_ROOT_DIR__')) exit;
+ $this->need('header.php');
+ ?>
     <div class="article">
         <?php while ($this->next()) : ?>
             <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
