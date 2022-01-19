@@ -1,0 +1,12 @@
+.site-name{
+    background-color: thistle;
+    height: 150px;
+    width: 100%;
+}
+#logo{
+    color: #233;
+    font-size: 2.5em;
+    text-decoration: none;
+    position: relative;
+    margin: 10%;
+}
